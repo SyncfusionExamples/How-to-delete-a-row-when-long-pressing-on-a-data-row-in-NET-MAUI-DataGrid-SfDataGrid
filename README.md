@@ -1,4 +1,4 @@
-# How to delete a row hen long pressing on a data row in NET MAUI DataGrid SfDataGrid
+# How to delete a row when long pressing on a data row in .NET MAUI DataGrid SfDataGrid
 The [.NET MAUI DataGrid](https://www.syncfusion.com/maui-controls/maui-datagrid) allows you to delete a row by performing a long press on a data row and hooking into the [SfDataGrid.CellLongPress](https://help.syncfusion.com/cr/maui/Syncfusion.Maui.DataGrid.SfDataGrid.html#Syncfusion_Maui_DataGrid_SfDataGrid_CellLongPress) event.
 
 Refer to the code example below, where the SfDataGrid is grouped by a column, and the CellLongPress event is hooked.
